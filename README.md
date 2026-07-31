@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=RIBEIROOZK+%E2%80%A2+CARD+ESPECIAL;DESENVOLVEDOR+FRONT-END;OVERALL+99+%E2%9A%BD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=RIBEIROOZK+%E2%80%A2+CARD+ESPECIAL;DESENVOLVEDOR+FRONT-END;OVERALL+93+%E2%9A%BD" alt="Typing SVG" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ```
 ┌──────────────────────────────────┐
-│            ⭐ 99 OVR              │
+│            ⭐ 93 OVR              │
 │                                    │
 │              🧑‍💻                  │
 │                                    │
